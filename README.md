@@ -1,5 +1,4 @@
 ### Technology & Tools
-<br><br><br>
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c%20sharp)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
@@ -17,7 +16,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=Git)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logoColor=white&logo=GNU%20Bash)
 ![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logoColor=white&logo=Vim)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logoColor=white&logo=CentOS)  
+![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logoColor=white&logo=CentOS)
 ![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logoColor=white&logo=Manjaro)
 ![TeamSpeak](https://img.shields.io/badge/-TeamSpeak-2580C3?style=flat-square&logoColor=white&logo=TeamSpeak)
 ![VS](https://img.shields.io/badge/-VS-5C2D91?style=flat-square&logoColor=white&logo=Visual%20Studio)
@@ -30,5 +29,5 @@
 <br />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" alt="" />
 </p>
