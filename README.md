@@ -25,9 +25,6 @@
 ![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logoColor=white&logo=Hugo)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logoColor=white&logo=Figma)
 
-<br />
-<br />
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" alt="" />
 </p>
