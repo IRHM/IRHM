@@ -1,0 +1,34 @@
+name: Update Stats In README
+on:
+  push:
+  schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install Dependencies
+        run: |
+          npm install
+          npm install -g typescript -S @types/node axios
+      - name: Build getStats
+        run: tsc getStats.ts --module 'esnext' --target 'es2020'
+      - name: Run getStats
+        run: node getStats.js
+        env:
+          BASE_README: ${{ secrets.BASE_README }}
+          URL_STAT_ME: ${{ secrets.URL_STAT_ME }}
+          URL_STAT_MR: ${{ secrets.URL_STAT_MR }}
+          URL_STAT_KINGO: ${{ secrets.URL_STAT_KINGO }}
+          URL_STAT_DAN: ${{ secrets.URL_STAT_DAN }}
+          URL_STAT_MAR: ${{ secrets.URL_STAT_MAR }}
+      - name: Commit new README  
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README
