@@ -1,3 +1,4 @@
+
 ### The Ahr-suh-nl
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c%20sharp)
@@ -28,3 +29,73 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" alt="" />
 </p>
+
+
+### I am the best at chess
+
+<table>
+<tr>
+  <td rowspan="1"></td>
+  <th colspan="3" scope="colgroup">Game</th>
+  <th colspan="1" scope="colgroup">Latest</th>
+  <th colspan="1" scope="colgroup">Best</th>
+</tr>
+<tr>
+  <th>Person</th>
+  <th>Wins</th>
+  <th>Losses</th>
+  <th>Draws</th>
+  <th>Rating</th>
+  <th>Rating</th>
+</tr>
+  
+<tr>
+  <td>Me</td>
+  <td>17</td>
+  <td>27</td>
+  <td>5</td>
+  <td>550</td>
+  <td>867</td>
+</tr>
+    
+
+<tr>
+  <td>Mr 2 Gut</td>
+  <td>115</td>
+  <td>141</td>
+  <td>11</td>
+  <td>398</td>
+  <td>420</td>
+</tr>
+    
+
+<tr>
+  <td>Kingo</td>
+  <td>66</td>
+  <td>73</td>
+  <td>17</td>
+  <td>698</td>
+  <td>1419</td>
+</tr>
+    
+
+<tr>
+  <td>Dan</td>
+  <td>110</td>
+  <td>91</td>
+  <td>15</td>
+  <td>767</td>
+  <td>1388</td>
+</tr>
+    
+
+<tr>
+  <td>Marius</td>
+  <td>84</td>
+  <td>100</td>
+  <td>13</td>
+  <td>762</td>
+  <td>1206</td>
+</tr>
+    
+</table>
