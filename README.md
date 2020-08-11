@@ -52,19 +52,19 @@
 <tr>
   <td>Me</td>
   <td>19</td>
-  <td>29</td>
+  <td>31</td>
   <td>5</td>
-  <td>574</td>
+  <td>557</td>
   <td>867</td>
 </tr>
     
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>115</td>
+  <td>116</td>
   <td>143</td>
   <td>11</td>
-  <td>382</td>
+  <td>391</td>
   <td>420</td>
 </tr>
     
