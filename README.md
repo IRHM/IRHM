@@ -61,10 +61,10 @@
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>119</td>
-  <td>150</td>
+  <td>120</td>
+  <td>153</td>
   <td>11</td>
-  <td>368</td>
+  <td>356</td>
   <td>420</td>
 </tr>
     
