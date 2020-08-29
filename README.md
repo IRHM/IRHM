@@ -71,10 +71,10 @@
 
 <tr>
   <td>Kingo</td>
-  <td>75</td>
-  <td>84</td>
+  <td>76</td>
+  <td>85</td>
   <td>22</td>
-  <td>679</td>
+  <td>680</td>
   <td>1419</td>
 </tr>
     
