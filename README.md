@@ -51,10 +51,10 @@
   
 <tr>
   <td>Me</td>
-  <td>23</td>
+  <td>24</td>
   <td>37</td>
   <td>5</td>
-  <td>555</td>
+  <td>571</td>
   <td>867</td>
 </tr>
     
