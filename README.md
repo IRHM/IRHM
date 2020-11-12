@@ -5,6 +5,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logoColor=F7DF1E&logo=javascript)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logoColor=white&logo=vue.js)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logoColor=white&logo=CSS3)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logoColor=white&logo=SASS)
 ![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logoColor=white&logo=Go)
@@ -29,7 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" alt="" />
 </p>
-
 
 ### I am the best at chess
 
