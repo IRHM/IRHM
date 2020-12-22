@@ -28,7 +28,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logoColor=white&logo=Figma)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" alt="" />
 </p>
 
 ### I am the best at chess
