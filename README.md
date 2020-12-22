@@ -1,4 +1,4 @@
-hi
+
 ### The Ahr-suh-nl
 
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c%20sharp)
@@ -28,7 +28,7 @@ hi
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logoColor=white&logo=Figma)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true&hide=stars,prs" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true" alt="" />
 </p>
 
 ### I am the best at chess
@@ -51,10 +51,10 @@ hi
   
 <tr>
   <td>Me</td>
-  <td>25</td>
+  <td>26</td>
   <td>39</td>
   <td>5</td>
-  <td>566</td>
+  <td>585</td>
   <td>867</td>
 </tr>
     
