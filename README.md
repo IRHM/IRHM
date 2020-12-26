@@ -82,19 +82,19 @@
 <tr>
   <td>Dan</td>
   <td>117</td>
-  <td>95</td>
+  <td>97</td>
   <td>15</td>
-  <td>755</td>
+  <td>721</td>
   <td>1388</td>
 </tr>
     
 
 <tr>
   <td>Marius</td>
-  <td>84</td>
+  <td>85</td>
   <td>100</td>
   <td>13</td>
-  <td>762</td>
+  <td>780</td>
   <td>1206</td>
 </tr>
     
