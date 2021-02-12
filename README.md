@@ -55,9 +55,9 @@
 <tr>
   <td>Me</td>
   <td>26</td>
-  <td>43</td>
+  <td>44</td>
   <td>5</td>
-  <td>548</td>
+  <td>537</td>
   <td>867</td>
 </tr>
     
@@ -74,10 +74,10 @@
 
 <tr>
   <td>Kingo</td>
-  <td>84</td>
+  <td>86</td>
   <td>88</td>
   <td>22</td>
-  <td>710</td>
+  <td>737</td>
   <td>1419</td>
 </tr>
     
