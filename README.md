@@ -55,9 +55,9 @@
 <tr>
   <td>Me</td>
   <td>29</td>
-  <td>44</td>
+  <td>45</td>
   <td>5</td>
-  <td>576</td>
+  <td>562</td>
   <td>867</td>
 </tr>
     
