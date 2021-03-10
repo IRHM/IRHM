@@ -54,10 +54,10 @@
   
 <tr>
   <td>Me</td>
-  <td>33</td>
+  <td>35</td>
   <td>47</td>
   <td>5</td>
-  <td>610</td>
+  <td>632</td>
   <td>867</td>
 </tr>
     
