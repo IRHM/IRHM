@@ -1,7 +1,7 @@
 
 ### The Ahr-suh-nl
 
-![TypeScript](https://img.shields.io/badge/-JavaScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logoColor=white&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logoColor=white&logo=vue.js)
