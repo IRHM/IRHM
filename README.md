@@ -87,9 +87,9 @@
 <tr>
   <td>Dan</td>
   <td>126</td>
-  <td>106</td>
+  <td>107</td>
   <td>16</td>
-  <td>598</td>
+  <td>564</td>
   <td>1388</td>
 </tr>
     
