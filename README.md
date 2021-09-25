@@ -42,8 +42,6 @@
 
 ### I am the best at chess
 
-### I am the best at chess
-
 <table>
 <tr>
   <td rowspan="1"></td>
