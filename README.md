@@ -100,10 +100,10 @@
 
 <tr>
   <td>Marius</td>
-  <td>92</td>
-  <td>100</td>
+  <td>109</td>
+  <td>102</td>
   <td>13</td>
-  <td>941</td>
+  <td>1175</td>
   <td>1206</td>
 </tr>
     
