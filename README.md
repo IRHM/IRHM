@@ -82,29 +82,29 @@
   <td>Kingo</td>
   <td>119</td>
   <td>127</td>
-  <td>26</td>
-  <td>620</td>
+  <td>27</td>
+  <td>621</td>
   <td>1419</td>
 </tr>
     
 
 <tr>
   <td>Dan</td>
-  <td>128</td>
-  <td>111</td>
+  <td>129</td>
+  <td>112</td>
   <td>16</td>
-  <td>578</td>
+  <td>626</td>
   <td>1388</td>
 </tr>
     
 
 <tr>
   <td>Marius</td>
-  <td>134</td>
-  <td>106</td>
+  <td>137</td>
+  <td>108</td>
   <td>15</td>
-  <td>1354</td>
-  <td>1354</td>
+  <td>1344</td>
+  <td>1360</td>
 </tr>
     
 </table>
