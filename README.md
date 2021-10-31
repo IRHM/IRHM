@@ -100,11 +100,11 @@
 
 <tr>
   <td>Marius</td>
-  <td>139</td>
-  <td>109</td>
+  <td>143</td>
+  <td>111</td>
   <td>15</td>
-  <td>1351</td>
-  <td>1360</td>
+  <td>1359</td>
+  <td>1368</td>
 </tr>
     
 </table>
