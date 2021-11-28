@@ -61,9 +61,9 @@
 <tr>
   <td>Me</td>
   <td>40</td>
-  <td>62</td>
+  <td>63</td>
   <td>5</td>
-  <td>529</td>
+  <td>515</td>
   <td>867</td>
 </tr>
     
@@ -90,21 +90,21 @@
 
 <tr>
   <td>Dan</td>
-  <td>129</td>
+  <td>130</td>
   <td>112</td>
   <td>16</td>
-  <td>626</td>
+  <td>645</td>
   <td>1388</td>
 </tr>
     
 
 <tr>
   <td>Marius</td>
-  <td>162</td>
-  <td>119</td>
+  <td>166</td>
+  <td>120</td>
   <td>16</td>
-  <td>1433</td>
-  <td>1444</td>
+  <td>1455</td>
+  <td>1464</td>
 </tr>
     
 </table>
