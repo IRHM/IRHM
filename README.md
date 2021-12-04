@@ -60,10 +60,10 @@
   
 <tr>
   <td>Me</td>
-  <td>40</td>
-  <td>64</td>
-  <td>5</td>
-  <td>497</td>
+  <td>41</td>
+  <td>66</td>
+  <td>6</td>
+  <td>503</td>
   <td>867</td>
 </tr>
     
@@ -90,10 +90,10 @@
 
 <tr>
   <td>Dan</td>
-  <td>130</td>
-  <td>112</td>
-  <td>16</td>
-  <td>645</td>
+  <td>132</td>
+  <td>113</td>
+  <td>17</td>
+  <td>636</td>
   <td>1388</td>
 </tr>
     
