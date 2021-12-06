@@ -101,9 +101,9 @@
 <tr>
   <td>Marius</td>
   <td>169</td>
-  <td>121</td>
+  <td>123</td>
   <td>16</td>
-  <td>1471</td>
+  <td>1458</td>
   <td>1480</td>
 </tr>
     
