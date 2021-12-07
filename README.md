@@ -91,9 +91,9 @@
 <tr>
   <td>Dan</td>
   <td>132</td>
-  <td>113</td>
+  <td>114</td>
   <td>17</td>
-  <td>636</td>
+  <td>606</td>
   <td>1388</td>
 </tr>
     
