@@ -90,10 +90,10 @@
 
 <tr>
   <td>Dan</td>
-  <td>136</td>
+  <td>137</td>
   <td>115</td>
   <td>17</td>
-  <td>620</td>
+  <td>627</td>
   <td>1388</td>
 </tr>
     
