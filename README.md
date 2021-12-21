@@ -60,10 +60,10 @@
   
 <tr>
   <td>Me</td>
-  <td>42</td>
-  <td>69</td>
+  <td>43</td>
+  <td>70</td>
   <td>6</td>
-  <td>480</td>
+  <td>491</td>
   <td>867</td>
 </tr>
     
@@ -80,20 +80,20 @@
 
 <tr>
   <td>Kingo</td>
-  <td>125</td>
+  <td>126</td>
   <td>140</td>
   <td>27</td>
-  <td>556</td>
+  <td>564</td>
   <td>1419</td>
 </tr>
     
 
 <tr>
   <td>Dan</td>
-  <td>137</td>
-  <td>115</td>
+  <td>138</td>
+  <td>116</td>
   <td>17</td>
-  <td>627</td>
+  <td>614</td>
   <td>1388</td>
 </tr>
     
