@@ -45,27 +45,21 @@ interface record {
 
 class GetStats {
   async requestStats() {
-    // if (
-    //   process.env.URL_STAT_ME == undefined ||
-    //   process.env.URL_STAT_MR == undefined ||
-    //   process.env.URL_STAT_KINGO == undefined ||
-    //   process.env.URL_STAT_DAN == undefined ||
-    //   process.env.URL_STAT_MAR == undefined
-    // ) {
-    //   throw new Error("Some or all of the URL_STAT_... env vars are missing.");
-    // }
+    if (
+      process.env.URL_STAT_ME == undefined ||
+      process.env.URL_STAT_MR == undefined ||
+      process.env.URL_STAT_KINGO == undefined ||
+      process.env.URL_STAT_DAN == undefined ||
+      process.env.URL_STAT_MAR == undefined
+    ) {
+      throw new Error("Some or all of the URL_STAT_... env vars are missing.");
+    }
 
-    // const statsMe = await axios.get(process.env.URL_STAT_ME);
-    // const statsMr = await axios.get(process.env.URL_STAT_MR);
-    // const statsKingo = await axios.get(process.env.URL_STAT_KINGO);
-    // const statsDan = await axios.get(process.env.URL_STAT_DAN);
-    // const statsMar = await axios.get(process.env.URL_STAT_MAR);
-
-    const statsMe = await axios.get("https://api.chess.com/pub/player/sbondo1234/stats");
-    const statsMr = await axios.get("https://api.chess.com/pub/player/mrunknownman/stats");
-    const statsKingo = await axios.get("https://api.chess.com/pub/player/kingo2157/stats");
-    const statsDan = await axios.get("https://api.chess.com/pub/player/dan_richman/stats");
-    const statsMar = await axios.get("https://api.chess.com/pub/player/mizsoonhome/stats");
+    const statsMe = await axios.get(process.env.URL_STAT_ME);
+    const statsMr = await axios.get(process.env.URL_STAT_MR);
+    const statsKingo = await axios.get(process.env.URL_STAT_KINGO);
+    const statsDan = await axios.get(process.env.URL_STAT_DAN);
+    const statsMar = await axios.get(process.env.URL_STAT_MAR);
 
     var t: stat[] = [
       { person: "Me", data: statsMe.data },
