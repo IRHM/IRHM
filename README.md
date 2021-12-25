@@ -46,65 +46,89 @@
 <tr>
   <td rowspan="1"></td>
   <th colspan="3" scope="colgroup">Game</th>
-  <th colspan="1" scope="colgroup">Latest</th>
-  <th colspan="1" scope="colgroup">Best</th>
+  <th colspan="3" scope="colgroup">Latest Rating</th>
+  <th colspan="3" scope="colgroup">Best Rating</th>
 </tr>
 <tr>
   <th>Person</th>
   <th>Wins</th>
   <th>Losses</th>
   <th>Draws</th>
-  <th>Rating</th>
-  <th>Rating</th>
+  <th>Bullet</th>
+  <th>Blitz</th>
+  <th>Rapid</th>
+  <th>Bullet</th>
+  <th>Blitz</th>
+  <th>Rapid</th>
 </tr>
   
 <tr>
   <td>Me</td>
-  <td>44</td>
-  <td>71</td>
-  <td>6</td>
+  <td>107</td>
+  <td>150</td>
+  <td>23</td>
+  <td>580</td>
   <td>499</td>
+  <td>778</td>
+  <td>855</td>
   <td>867</td>
+  <td>820</td>
 </tr>
     
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>121</td>
-  <td>153</td>
-  <td>11</td>
-  <td>368</td>
-  <td>420</td>
+  <td>249</td>
+  <td>310</td>
+  <td>16</td>
+  <td>456</td>
+  <td>332</td>
+  <td>638</td>
+  <td>740</td>
+  <td>963</td>
+  <td>735</td>
 </tr>
     
 
 <tr>
   <td>Kingo</td>
-  <td>127</td>
-  <td>140</td>
-  <td>27</td>
+  <td>153</td>
+  <td>173</td>
+  <td>31</td>
+  <td>625</td>
   <td>572</td>
+  <td>786</td>
+  <td>801</td>
   <td>1419</td>
+  <td>1058</td>
 </tr>
     
 
 <tr>
   <td>Dan</td>
-  <td>139</td>
-  <td>117</td>
-  <td>17</td>
+  <td>238</td>
+  <td>231</td>
+  <td>41</td>
+  <td>588</td>
   <td>605</td>
+  <td>608</td>
+  <td>1809</td>
   <td>1388</td>
+  <td>1806</td>
 </tr>
     
 
 <tr>
   <td>Marius</td>
-  <td>169</td>
-  <td>123</td>
-  <td>16</td>
+  <td>229</td>
+  <td>145</td>
+  <td>21</td>
+  <td>2028</td>
   <td>1458</td>
+  <td>1193</td>
+  <td>2028</td>
   <td>1480</td>
+  <td>1193</td>
 </tr>
     
 </table>
