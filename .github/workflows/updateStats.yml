@@ -13,13 +13,11 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: "12.x"
+          node-version: "16"
       - name: Install Dependencies
-        run: |
-          npm install
-          npm install -g typescript -S @types/node axios
+        run: npm install
       - name: Build getStats
-        run: tsc getStats.ts --module 'esnext' --target 'es2020'
+        run: npm run build
       - name: Run getStats
         run: node getStats.js
         env:
@@ -29,7 +27,7 @@ jobs:
           URL_STAT_KINGO: ${{ secrets.URL_STAT_KINGO }}
           URL_STAT_DAN: ${{ secrets.URL_STAT_DAN }}
           URL_STAT_MAR: ${{ secrets.URL_STAT_MAR }}
-      - name: Commit new README  
+      - name: Commit new README
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Chess Stats
