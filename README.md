@@ -64,11 +64,11 @@
   
 <tr>
   <td>Me</td>
-  <td>110</td>
-  <td>157</td>
+  <td>111</td>
+  <td>158</td>
   <td>23</td>
   <td>557</td>
-  <td>507</td>
+  <td>509</td>
   <td>751</td>
   <td>855</td>
   <td>867</td>
@@ -78,12 +78,12 @@
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>291</td>
-  <td>354</td>
-  <td>20</td>
+  <td>295</td>
+  <td>358</td>
+  <td>21</td>
   <td>456</td>
-  <td>357</td>
-  <td>619</td>
+  <td>355</td>
+  <td>627</td>
   <td>740</td>
   <td>963</td>
   <td>735</td>
@@ -106,12 +106,12 @@
 
 <tr>
   <td>Dan</td>
-  <td>254</td>
-  <td>257</td>
+  <td>256</td>
+  <td>260</td>
   <td>44</td>
   <td>608</td>
-  <td>533</td>
-  <td>627</td>
+  <td>531</td>
+  <td>619</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
@@ -121,11 +121,11 @@
 <tr>
   <td>Marius</td>
   <td>229</td>
-  <td>145</td>
+  <td>146</td>
   <td>21</td>
   <td>2028</td>
   <td>1458</td>
-  <td>1193</td>
+  <td>1176</td>
   <td>2028</td>
   <td>1480</td>
   <td>1193</td>
