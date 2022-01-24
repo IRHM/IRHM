@@ -78,11 +78,11 @@
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>354</td>
-  <td>400</td>
+  <td>355</td>
+  <td>404</td>
   <td>26</td>
   <td>456</td>
-  <td>444</td>
+  <td>421</td>
   <td>681</td>
   <td>740</td>
   <td>963</td>
@@ -106,12 +106,12 @@
 
 <tr>
   <td>Dan</td>
-  <td>264</td>
+  <td>265</td>
   <td>273</td>
   <td>48</td>
   <td>592</td>
   <td>511</td>
-  <td>608</td>
+  <td>614</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
