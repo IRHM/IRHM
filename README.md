@@ -78,11 +78,11 @@
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>373</td>
-  <td>421</td>
+  <td>376</td>
+  <td>422</td>
   <td>26</td>
   <td>456</td>
-  <td>440</td>
+  <td>459</td>
   <td>681</td>
   <td>740</td>
   <td>963</td>
@@ -92,11 +92,11 @@
 
 <tr>
   <td>Kingo</td>
-  <td>162</td>
-  <td>180</td>
+  <td>163</td>
+  <td>181</td>
   <td>32</td>
-  <td>625</td>
-  <td>574</td>
+  <td>593</td>
+  <td>580</td>
   <td>786</td>
   <td>801</td>
   <td>1419</td>
