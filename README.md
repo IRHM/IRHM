@@ -64,12 +64,12 @@
   
 <tr>
   <td>Me</td>
-  <td>163</td>
+  <td>164</td>
   <td>218</td>
   <td>30</td>
   <td>464</td>
   <td>547</td>
-  <td>769</td>
+  <td>777</td>
   <td>855</td>
   <td>867</td>
   <td>820</td>
@@ -78,12 +78,12 @@
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>436</td>
-  <td>480</td>
+  <td>441</td>
+  <td>481</td>
   <td>30</td>
   <td>487</td>
   <td>461</td>
-  <td>667</td>
+  <td>699</td>
   <td>740</td>
   <td>963</td>
   <td>735</td>
