@@ -78,11 +78,11 @@
 
 <tr>
   <td>Mr 2 Gut</td>
-  <td>483</td>
+  <td>484</td>
   <td>516</td>
   <td>31</td>
   <td>487</td>
-  <td>451</td>
+  <td>458</td>
   <td>739</td>
   <td>740</td>
   <td>963</td>
