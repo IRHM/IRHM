@@ -106,12 +106,12 @@
 
 <tr>
   <td>Dan</td>
-  <td>321</td>
-  <td>364</td>
+  <td>323</td>
+  <td>367</td>
   <td>56</td>
   <td>522</td>
   <td>472</td>
-  <td>673</td>
+  <td>683</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
