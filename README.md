@@ -64,12 +64,12 @@
   
 <tr>
   <td>Me</td>
-  <td>332</td>
+  <td>334</td>
   <td>358</td>
   <td>37</td>
   <td>649</td>
   <td>633</td>
-  <td>717</td>
+  <td>751</td>
   <td>855</td>
   <td>867</td>
   <td>827</td>
