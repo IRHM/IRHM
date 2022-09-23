@@ -64,12 +64,12 @@
   
 <tr>
   <td>Me</td>
-  <td>344</td>
-  <td>364</td>
+  <td>345</td>
+  <td>366</td>
   <td>38</td>
   <td>645</td>
-  <td>619</td>
-  <td>782</td>
+  <td>611</td>
+  <td>777</td>
   <td>855</td>
   <td>867</td>
   <td>827</td>
@@ -106,12 +106,12 @@
 
 <tr>
   <td>Dan</td>
-  <td>378</td>
-  <td>435</td>
+  <td>379</td>
+  <td>437</td>
   <td>65</td>
   <td>541</td>
   <td>493</td>
-  <td>714</td>
+  <td>709</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
