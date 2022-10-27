@@ -108,10 +108,10 @@
   <td>Dan</td>
   <td>424</td>
   <td>499</td>
-  <td>68</td>
+  <td>69</td>
   <td>517</td>
   <td>492</td>
-  <td>676</td>
+  <td>678</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
