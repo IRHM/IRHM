@@ -65,9 +65,9 @@
 <tr>
   <td>Me</td>
   <td>346</td>
-  <td>367</td>
+  <td>368</td>
   <td>38</td>
-  <td>645</td>
+  <td>626</td>
   <td>591</td>
   <td>786</td>
   <td>855</td>
@@ -92,11 +92,11 @@
 
 <tr>
   <td>Kingo</td>
-  <td>188</td>
+  <td>189</td>
   <td>195</td>
   <td>36</td>
   <td>596</td>
-  <td>519</td>
+  <td>536</td>
   <td>892</td>
   <td>801</td>
   <td>1419</td>
@@ -107,10 +107,10 @@
 <tr>
   <td>Dan</td>
   <td>435</td>
-  <td>505</td>
+  <td>506</td>
   <td>69</td>
   <td>517</td>
-  <td>492</td>
+  <td>474</td>
   <td>733</td>
   <td>1809</td>
   <td>1388</td>
