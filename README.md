@@ -93,9 +93,9 @@
 <tr>
   <td>Kingo</td>
   <td>326</td>
-  <td>327</td>
+  <td>333</td>
   <td>51</td>
-  <td>683</td>
+  <td>637</td>
   <td>578</td>
   <td>939</td>
   <td>801</td>
