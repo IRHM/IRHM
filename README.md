@@ -97,7 +97,7 @@
   <td>51</td>
   <td>637</td>
   <td>578</td>
-  <td>939</td>
+  <td>948</td>
   <td>801</td>
   <td>1419</td>
   <td>1058</td>
@@ -121,11 +121,11 @@
 <tr>
   <td>Marius</td>
   <td>229</td>
-  <td>147</td>
+  <td>148</td>
   <td>21</td>
   <td>2028</td>
   <td>1458</td>
-  <td>1088</td>
+  <td>1047</td>
   <td>2028</td>
   <td>1480</td>
   <td>1193</td>
