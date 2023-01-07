@@ -106,12 +106,12 @@
 
 <tr>
   <td>Dan</td>
-  <td>503</td>
-  <td>563</td>
+  <td>505</td>
+  <td>565</td>
   <td>73</td>
   <td>517</td>
   <td>533</td>
-  <td>947</td>
+  <td>948</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
@@ -121,11 +121,11 @@
 <tr>
   <td>Marius</td>
   <td>253</td>
-  <td>156</td>
+  <td>157</td>
   <td>21</td>
   <td>2028</td>
   <td>1458</td>
-  <td>1173</td>
+  <td>1161</td>
   <td>2028</td>
   <td>1480</td>
   <td>1197</td>
