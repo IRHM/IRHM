@@ -92,11 +92,11 @@
 
 <tr>
   <td>Kingo</td>
-  <td>367</td>
-  <td>358</td>
+  <td>371</td>
+  <td>362</td>
   <td>54</td>
   <td>630</td>
-  <td>721</td>
+  <td>719</td>
   <td>999</td>
   <td>801</td>
   <td>1419</td>
@@ -107,11 +107,11 @@
 <tr>
   <td>Dan</td>
   <td>535</td>
-  <td>595</td>
+  <td>598</td>
   <td>79</td>
   <td>508</td>
-  <td>555</td>
-  <td>961</td>
+  <td>540</td>
+  <td>945</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
