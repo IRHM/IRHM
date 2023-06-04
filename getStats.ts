@@ -50,7 +50,8 @@ class GetStats {
       process.env.URL_STAT_MR == undefined ||
       process.env.URL_STAT_KINGO == undefined ||
       process.env.URL_STAT_DAN == undefined ||
-      process.env.URL_STAT_MAR == undefined
+      process.env.URL_STAT_MAR == undefined ||
+      process.env.URL_STAT_GMAN == undefined
     ) {
       throw new Error("Some or all of the URL_STAT_... env vars are missing.");
     }
@@ -60,9 +61,11 @@ class GetStats {
     const statsKingo = await axios.get(process.env.URL_STAT_KINGO);
     const statsDan = await axios.get(process.env.URL_STAT_DAN);
     const statsMar = await axios.get(process.env.URL_STAT_MAR);
-
+    const statsGMan = await axios.get(process.env.URL_STAT_GMAN);
+    
     var t: stat[] = [
       { person: "Me", data: statsMe.data },
+      { person: "GMan", data: statsGMan.data },
       { person: "Mr 2 Gut", data: statsMr.data },
       { person: "Kingo", data: statsKingo.data },
       { person: "Dan", data: statsDan.data },
