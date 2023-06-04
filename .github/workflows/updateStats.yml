@@ -13,7 +13,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v1
         with:
-          node-version: "16"
+          node-version: "18"
       - name: Install Dependencies
         run: npm install
       - name: Build getStats
@@ -27,6 +27,7 @@ jobs:
           URL_STAT_KINGO: ${{ secrets.URL_STAT_KINGO }}
           URL_STAT_DAN: ${{ secrets.URL_STAT_DAN }}
           URL_STAT_MAR: ${{ secrets.URL_STAT_MAR }}
+          URL_STAT_GMAN: ${{ secrets.URL_STAT_GMAN }}
       - name: Commit new README
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
