@@ -1,40 +1,23 @@
 
-### The Ahr-suh-nl
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logoColor=white&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=black&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logoColor=white&logo=node.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logoColor=white&logo=vue.js)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logoColor=white&logo=react)
-![C#](https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c%20sharp)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logoColor=white&logo=php)
-![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logoColor=white&logo=Go)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logoColor=white&logo=MySQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4479A1?style=flat-square&logoColor=white&logo=mongodb)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logoColor=white&logo=GraphQL)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logoColor=white&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logoColor=white&logo=CSS3)
-![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logoColor=white&logo=SASS)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logoColor=white&logo=tailwindcss)
-![Bulma](https://img.shields.io/badge/-Bulma-00D1B2?style=flat-square&logoColor=white&logo=bulma)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logoColor=white&logo=bootstrap)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logoColor=white&logo=Electron)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logoColor=black&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logoColor=white&logo=Docker)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logoColor=white&logo=Apache)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logoColor=white&logo=Git)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logoColor=white&logo=GNUBash)
-![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logoColor=white&logo=JSON)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logoColor=white&logo=Vim)
-![CentOS](https://img.shields.io/badge/-CentOS-262577?style=flat-square&logoColor=white&logo=CentOS)
-![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logoColor=white&logo=Debian)
-![Manjaro](https://img.shields.io/badge/-Manjaro-35BF5C?style=flat-square&logoColor=white&logo=Manjaro)
-![TeamSpeak](https://img.shields.io/badge/-TeamSpeak-2580C3?style=flat-square&logoColor=white&logo=TeamSpeak)
-![VS](https://img.shields.io/badge/-VS-5C2D91?style=flat-square&logoColor=white&logo=Visual%20Studio)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logoColor=white&logo=Visual%20Studio%20Code)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logoColor=white&logo=Postman)
-![Hugo](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logoColor=white&logo=Hugo)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logoColor=white&logo=Figma)
+<p align="center">
+<img alt="TypeScript"  src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logoColor=white&logo=typescript" />
+<img alt="JavaScript"  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript" />
+<img alt="Node.js"  src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js" />
+<img alt="React"  src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=white&logo=react" />
+<img alt="GoLang"  src="https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logoColor=white&logo=Go" />
+<img alt="C#"  src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c%20sharp" />
+<img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logoColor=white&logo=MySQL" />
+<img alt="MongoDB"  src="https://img.shields.io/badge/-MongoDB-4479A1?style=for-the-badge&logoColor=white&logo=mongodb" />
+<img alt="HTML"  src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=HTML5" />
+<img alt="CSS"  src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=white&logo=CSS3" />
+<img alt="SCSS"  src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logoColor=white&logo=SASS" />
+<img alt="Electron"  src="https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logoColor=white&logo=Electron" />
+<img alt="Linux"  src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logoColor=black&logo=Linux" />
+<img alt="Docker"  src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logoColor=white&logo=Docker" />
+<img alt="Git"  src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logoColor=white&logo=Git" />
+<img alt="JSON"  src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logoColor=white&logo=JSON" />
+<img alt="Postman"  src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logoColor=white&logo=Postman" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true" alt="" />
@@ -73,6 +56,20 @@
   <td>855</td>
   <td>867</td>
   <td>827</td>
+</tr>
+    
+
+<tr>
+  <td>GMan</td>
+  <td>213</td>
+  <td>157</td>
+  <td>15</td>
+  <td>626</td>
+  <td>564</td>
+  <td>809</td>
+  <td>675</td>
+  <td>621</td>
+  <td>858</td>
 </tr>
     
 
