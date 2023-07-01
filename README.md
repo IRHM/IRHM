@@ -91,7 +91,7 @@
   <td>Kingo</td>
   <td>635</td>
   <td>607</td>
-  <td>74</td>
+  <td>75</td>
   <td>726</td>
   <td>917</td>
   <td>1008</td>
