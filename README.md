@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irhm&theme=dark&count_private=true&show_icons=true" alt="" />
+  <img src="https://metrics.lecoq.io/irhm?template=classic&base.indepth=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=UTC?updatecachepls=6" alt="" />
 </p>
 
 ### I am the best at chess
