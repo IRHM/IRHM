@@ -61,12 +61,12 @@
 
 <tr>
   <td>GMan</td>
-  <td>214</td>
+  <td>215</td>
   <td>157</td>
   <td>15</td>
   <td>646</td>
   <td>564</td>
-  <td>809</td>
+  <td>856</td>
   <td>675</td>
   <td>621</td>
   <td>858</td>
@@ -104,11 +104,11 @@
 <tr>
   <td>Dan</td>
   <td>594</td>
-  <td>646</td>
+  <td>647</td>
   <td>82</td>
   <td>527</td>
   <td>666</td>
-  <td>935</td>
+  <td>910</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
