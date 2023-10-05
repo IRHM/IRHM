@@ -89,10 +89,10 @@
 
 <tr>
   <td>Kingo</td>
-  <td>641</td>
-  <td>613</td>
+  <td>643</td>
+  <td>615</td>
   <td>75</td>
-  <td>736</td>
+  <td>741</td>
   <td>917</td>
   <td>1008</td>
   <td>801</td>
