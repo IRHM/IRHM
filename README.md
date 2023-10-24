@@ -61,10 +61,10 @@
 
 <tr>
   <td>GMan</td>
-  <td>219</td>
-  <td>162</td>
+  <td>222</td>
+  <td>163</td>
   <td>15</td>
-  <td>622</td>
+  <td>649</td>
   <td>536</td>
   <td>856</td>
   <td>675</td>
