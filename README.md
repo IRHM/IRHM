@@ -62,9 +62,9 @@
 <tr>
   <td>GMan</td>
   <td>222</td>
-  <td>163</td>
+  <td>164</td>
   <td>15</td>
-  <td>649</td>
+  <td>635</td>
   <td>536</td>
   <td>856</td>
   <td>675</td>
