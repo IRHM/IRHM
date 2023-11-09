@@ -63,13 +63,13 @@
   <td>GMan</td>
   <td>222</td>
   <td>164</td>
-  <td>15</td>
+  <td>16</td>
   <td>635</td>
   <td>536</td>
-  <td>856</td>
+  <td>861</td>
   <td>675</td>
   <td>621</td>
-  <td>858</td>
+  <td>861</td>
 </tr>
     
 
@@ -105,10 +105,10 @@
   <td>Dan</td>
   <td>594</td>
   <td>647</td>
-  <td>82</td>
+  <td>83</td>
   <td>527</td>
   <td>666</td>
-  <td>910</td>
+  <td>907</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
