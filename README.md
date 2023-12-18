@@ -4,10 +4,10 @@
 <img alt="JavaScript"  src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript" />
 <img alt="Node.js"  src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logoColor=white&logo=node.js" />
 <img alt="React"  src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logoColor=white&logo=react" />
+<img alt="Svelte"  src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logoColor=white&logo=svelte" />
 <img alt="GoLang"  src="https://img.shields.io/badge/-GoLang-00ADD8?style=for-the-badge&logoColor=white&logo=Go" />
-<img alt="C#"  src="https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=c%20sharp" />
+<img alt="SQLite"  src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logoColor=white&logo=SQLite" />
 <img alt="MySQL"  src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logoColor=white&logo=MySQL" />
-<img alt="MongoDB"  src="https://img.shields.io/badge/-MongoDB-4479A1?style=for-the-badge&logoColor=white&logo=mongodb" />
 <img alt="HTML"  src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logoColor=white&logo=HTML5" />
 <img alt="CSS"  src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logoColor=white&logo=CSS3" />
 <img alt="SCSS"  src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logoColor=white&logo=SASS" />
@@ -17,10 +17,6 @@
 <img alt="Git"  src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logoColor=white&logo=Git" />
 <img alt="JSON"  src="https://img.shields.io/badge/-JSON-black?style=for-the-badge&logoColor=white&logo=JSON" />
 <img alt="Postman"  src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logoColor=white&logo=Postman" />
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/irhm?template=classic&base.indepth=true&base.community=0&base.repositories=0&base.metadata=0&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&config.timezone=UTC?updatecachepls=6" alt="" />
 </p>
 
 ### I am the best at chess
