@@ -57,10 +57,10 @@
 
 <tr>
   <td>GMan</td>
-  <td>222</td>
+  <td>223</td>
   <td>164</td>
-  <td>16</td>
-  <td>635</td>
+  <td>17</td>
+  <td>655</td>
   <td>536</td>
   <td>861</td>
   <td>675</td>
