@@ -58,10 +58,10 @@
 <tr>
   <td>GMan</td>
   <td>224</td>
-  <td>165</td>
+  <td>166</td>
   <td>17</td>
   <td>668</td>
-  <td>536</td>
+  <td>528</td>
   <td>828</td>
   <td>675</td>
   <td>621</td>
@@ -85,11 +85,11 @@
 
 <tr>
   <td>Kingo</td>
-  <td>643</td>
+  <td>644</td>
   <td>615</td>
   <td>75</td>
   <td>741</td>
-  <td>917</td>
+  <td>924</td>
   <td>1008</td>
   <td>801</td>
   <td>1419</td>
