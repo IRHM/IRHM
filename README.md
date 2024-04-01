@@ -99,12 +99,12 @@
 
 <tr>
   <td>Dan</td>
-  <td>595</td>
+  <td>597</td>
   <td>648</td>
   <td>83</td>
   <td>497</td>
   <td>666</td>
-  <td>931</td>
+  <td>940</td>
   <td>1809</td>
   <td>1388</td>
   <td>1806</td>
