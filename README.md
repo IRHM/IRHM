@@ -113,12 +113,12 @@
 
 <tr>
   <td>Marius</td>
-  <td>259</td>
+  <td>260</td>
   <td>162</td>
   <td>21</td>
   <td>2028</td>
   <td>1283</td>
-  <td>1197</td>
+  <td>1241</td>
   <td>2028</td>
   <td>1480</td>
   <td>1245</td>
